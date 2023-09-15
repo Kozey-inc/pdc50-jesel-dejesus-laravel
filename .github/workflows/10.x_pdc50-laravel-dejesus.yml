@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'PDC50-laravel-DeJesus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49DC812E8BB643FF94BC9E719BA8504E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77AC5365B90A44858711252CA7DD5468 }}
           package: .
